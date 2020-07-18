@@ -1,0 +1,6 @@
+// REDUX ACTION TYPES
+export const ADD_ALL_USERS = 'ADD_ALL_USERS';
+export const ADD_USER = 'ADD_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const ADD_FETCH_STARTED = 'ADD_FETCH_STARTED';
+export const ADD_FETCH_FAILURE = 'ADD_FETCH_FAILURE';

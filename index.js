@@ -1,0 +1,1 @@
+const newTotal = useMemo(() => total.map(e => `${e}$`),[total]);
